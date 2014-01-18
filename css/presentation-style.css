@@ -22,9 +22,12 @@ small {
 }
 
 .src {
-    text-align:center;
+    position:absolute;
+    margin-bottom: 10px;
+    bottom: 0;
     font-size: 0.4em;
     color: rgb(102, 102, 102);
+    line-height: 100%;
 }
 
 a {
